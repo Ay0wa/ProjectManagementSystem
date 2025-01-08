@@ -11,9 +11,9 @@ namespace ProjectManagementSystem.Application.Queries
     {
         private readonly List<Problem> problems;
 
-        public GetProblemsQueryHandler(List<Problem> Problems)
+        public GetProblemsQueryHandler(List<Problem> problems)
         {
-            this.problems = Problems ?? throw new ArgumentNullException(nameof(Problems));
+            this.problems = problems ?? throw new ArgumentNullException(nameof(problems));
         }
 
         public List<Problem> Handle(GetProblemsQuery query)
