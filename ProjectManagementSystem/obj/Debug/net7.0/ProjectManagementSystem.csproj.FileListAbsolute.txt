@@ -1,0 +1,14 @@
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\net7.0\ProjectManagementSystem.exe
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\net7.0\ProjectManagementSystem.deps.json
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\net7.0\ProjectManagementSystem.runtimeconfig.json
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\net7.0\ProjectManagementSystem.dll
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\net7.0\ProjectManagementSystem.pdb
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\net7.0\ProjectManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\net7.0\ProjectManagementSystem.AssemblyInfoInputs.cache
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\net7.0\ProjectManagementSystem.AssemblyInfo.cs
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\net7.0\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\net7.0\ProjectManagementSystem.dll
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\net7.0\refint\ProjectManagementSystem.dll
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\net7.0\ProjectManagementSystem.pdb
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\net7.0\ProjectManagementSystem.genruntimeconfig.cache
+C:\Users\strel\Documents\учеба\политех_2.1\ООП\курсач\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\net7.0\ref\ProjectManagementSystem.dll
