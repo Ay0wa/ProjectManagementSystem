@@ -131,7 +131,7 @@ namespace ProjectManagementSystem
                 ProjectId = projectId, 
                 Name = name,
                 Description = description,
-                CreatedBy = "User" // В реальной системе здесь был бы текущий пользователь
+                CreatedBy = "User"
             };
 
             updateProjectHandler.Handle(command);
